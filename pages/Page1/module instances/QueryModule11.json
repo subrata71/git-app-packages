@@ -6,8 +6,18 @@
   "type": "QUERY_MODULE",
   "unpublishedModuleInstance": {
     "contextType": "PAGE",
-    "inputs": {},
-    "moduleInputs": {},
+    "inputs": {
+      "limit": "10"
+    },
+    "moduleInputs": {
+      "tckxmlwijv": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "10",
+        "id": "tckxmlwijv",
+        "label": "limit",
+        "propertyName": "inputs.limit"
+      }
+    },
     "name": "QueryModule11",
     "pageId": "Page1"
   }
