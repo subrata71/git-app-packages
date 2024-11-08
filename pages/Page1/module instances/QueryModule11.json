@@ -6,20 +6,10 @@
   "type": "QUERY_MODULE",
   "unpublishedModuleInstance": {
     "contextType": "PAGE",
-    "inputs": {
-      "limit": "10"
-    },
-    "moduleInputs": {
-      "tckxmlwijv": {
-        "controlType": "INPUT_TEXT",
-        "defaultValue": "10",
-        "id": "tckxmlwijv",
-        "label": "limit",
-        "propertyName": "inputs.limit"
-      }
-    },
+    "inputs": {},
+    "moduleInputs": {},
     "name": "QueryModule11",
     "pageId": "Page1",
-    "version": "0.0.3"
+    "version": "0.0.4"
   }
 }
