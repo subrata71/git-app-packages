@@ -2,5 +2,6 @@
   "moduleName": "GetTenUsers",
   "moduleUUID": "7b1c8ccb-8fdb-4096-bd8f-d554e08a906c",
   "packageName": "Pkg used in Git Apps",
-  "packageUUID": "06e9e966-bd74-41cb-9402-0cf4b4b9b8f6"
+  "packageUUID": "06e9e966-bd74-41cb-9402-0cf4b4b9b8f6",
+  "version": "0.0.3"
 }
